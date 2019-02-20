@@ -11,10 +11,10 @@ return(
     <div className="collapse navbar-collapse" id="navbarColor01">
       <ul className="navbar-nav mr-auto">
         <li className="nav-item">
-          <a className="nav-link" href="./">Home</a>
+          <a className="nav-link" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./pages/About.js">About Us</a>
+          <a className="nav-link" href="/About">About Us</a>
         </li>
         {/* <li className="nav-item">
           <a className="nav-link" href="./About">About Us</a>

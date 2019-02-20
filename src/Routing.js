@@ -2,8 +2,9 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import Home from "./pages/Home";
-import About from "./pages/About";
+
 // import Resume from "./components/Resume";
+import About from './pages/About';
 
 
 const Routing = () => (
